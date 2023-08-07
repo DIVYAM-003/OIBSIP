@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Tribute to Stan Lee</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+
+        #tribute-container {
+            max-width: 600px;
+            margin: 0 auto;
+        }
+
+        #image-container {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 20px;
+        }
+
+        .image {
+            max-width: 45%;
+            border-radius: 5px;
+            box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.5);
+        }
+
+        p {
+            line-height: 1.5;
+        }
+    </style>
+</head>
+<body>
+    <div id="tribute-container">
+        <h1>Tribute to Stan Lee</h1>
+        <p>
+            Stan Lee, the legendary comic book writer, editor, and publisher,
+            was a true visionary and a pioneer in the world of superheroes. His
+            creative genius and imagination led to the creation of iconic
+            characters like Spider-Man, Iron Man, the X-Men, and the Fantastic Four.
+        </p>
+        <p>
+            Throughout his career, Stan Lee revolutionized the comic book industry
+            and made a profound impact on popular culture. His characters and
+            storytelling resonated with millions of fans worldwide, inspiring
+            generations of artists, writers, and readers.
+        </p>
+        <div id="image-container">
+            <img src="https://static1.srcdn.com/wordpress/wp-content/uploads/2019/09/SpiderMan.jpg" width="100" height="100">
+            <img src="https://th.bing.com/th/id/R.094bf42ecc03163f006127104146b63d?rik=BEXQDcHPxSX1BA&riu=http%3a%2f%2f3.bp.blogspot.com%2f-FY9lvuDlk1A%2fTaYWSkTFMqI%2fAAAAAAAAIOA%2f5q0yCX-Fkrw%2fs1600%2fstan_lee_580x.jpg&ehk=ZjQwUurzc8srMMVSF42mXGBQ8Yhstwd6Dnc%2b8VqipsQ%3d&risl=&pid=ImgRaw&r=0" width="100" height="100" >
+        </div>
+        <p>
+            Let us remember and celebrate Stan Lee's contributions to the world of
+            comics and entertainment. His passion for storytelling and creativity
+            will continue to inspire and bring joy to people for years to come.
+        </p>
+        <p>
+            Thank you, Stan Lee, for creating a universe of superheroes that will
+            forever live in the hearts of fans all over the world!
+        </p>
+        <p>- Your Admirers</p>
+    </div>
+</body>
+</html>
